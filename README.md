@@ -5,18 +5,23 @@ Iris flower has three species; setosa, versicolor, and virginica, which differs 
 
 Applied :
 
-DATA PROCESSING
-DATA CLEANING
-DATA VISUALIZATION
-MODEL BUILDING (Train-Test Split)
+DATA PROCESSING ,
+DATA CLEANING ,
+DATA VISUALIZATION ,
+MODEL BUILDING (Train-Test Split).
+
 Dataset Used : "Iris.csv"
+
 Solved with :
-Logistic Regression Algorithm
-KNN Algorithm
-Technologies Used : Python, Machine Learning
+
+Logistic Regression Algorithm ,
+KNN Algorithm ,
+Technologies Used : Python, Machine Learning 
+
 Python libraries used :
-numpy
-pandas
-matplotlib
-sklearn
-seaborn
+
+numpy ,
+pandas ,
+matplotlib ,
+sklearn ,
+seaborn .
