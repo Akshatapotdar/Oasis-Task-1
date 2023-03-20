@@ -16,7 +16,9 @@ Solved with :
 
 Logistic Regression Algorithm ,
 KNN Algorithm ,
-Technologies Used : Python, Machine Learning 
+
+Technologies Used : 
+Python , Machine Learning .
 
 Python libraries used :
 
