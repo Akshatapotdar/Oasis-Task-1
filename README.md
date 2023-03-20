@@ -10,14 +10,17 @@ DATA CLEANING ,
 DATA VISUALIZATION ,
 MODEL BUILDING (Train-Test Split).
 
-Dataset Used : "Iris.csv"
+Dataset Used :
+
+"Iris.csv"
 
 Solved with :
 
 Logistic Regression Algorithm ,
 KNN Algorithm ,
 
-Technologies Used : 
+Technologies Used :
+
 Python , Machine Learning .
 
 Python libraries used :
