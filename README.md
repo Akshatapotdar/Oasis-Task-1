@@ -27,4 +27,4 @@ sklearn ,
 seaborn .
 
 
-https://akshatapotdar.github.io/Oasis-Task-1/ tap here for a quick improve your task
+https://github.com/Akshatapotdar/Oasis-Task-1 tap here for a quick improve your task
